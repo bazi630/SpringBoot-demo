@@ -8,7 +8,7 @@ public class Example {
 	
 	@GetMapping("/")
 	public String sayHello() {
-		return "Hello Spring Boot";
+		return "Spring Boot";
 	}
 	
 
