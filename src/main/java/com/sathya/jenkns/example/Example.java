@@ -8,7 +8,7 @@ public class Example {
 	
 	@GetMapping("/")
 	public String sayHello() {
-		return "Spring Boot Updated";
+		return "Spring Boot";
 	}
 	
 
